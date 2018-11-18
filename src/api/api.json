@@ -1,0 +1,42 @@
+{
+    "personalInformation": {
+        "id": "1",
+        "firstName": "Heiner",
+        "secondName": "Alejandro",
+        "lastName": "Gómez Montengro",
+        "fullName": "Heiner Alejandro Gómez Montenegro",
+        "cellphone": "3007045868",
+        "email": "agheinerag@gmail.com",
+        "age": "22",
+        "professionalPosition": "Desarrollador Web",
+        "description": "Desarrollador Web, apasionado por la tecnologia y la programación",
+        "skills": [
+            {
+                "id": "1",
+                "name": "reactJS",
+                "star": 3
+            },
+            {
+                "id": "2",
+                "name": "PHP",
+                "star": 4
+            }
+        ],
+        "certifications": [
+            {
+                "id": "1",
+                "name": "React JS",
+                "teacher": "Leonidas Esteban",
+                "company": "Platzi",
+                "date": "2018-11-23"
+            },
+            {
+                "id": "1",
+                "name": "Angular 5, 6, 7",
+                "teacher": "Fernando Herrera",
+                "company": "Udemy",
+                "date": "2018-06-30"
+            }
+        ]
+    }
+}
