@@ -1,7 +1,6 @@
 /* Importaciones */
 import { fromJS } from "immutable";
 import schema from "../schemas/index";
-console.log("esquema: ", schema);
 // estado inicial de mi reducer
 const initialState = fromJS({
     "entities": schema.result
